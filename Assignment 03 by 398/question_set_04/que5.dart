@@ -1,5 +1,5 @@
 void main() {
-  // List of 7 friends' names
+  
   List<String> friends = [
     "Amit",
     "Aushfi",
